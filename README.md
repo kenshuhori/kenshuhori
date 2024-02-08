@@ -10,10 +10,10 @@
 
 ### Programming Languages
 
-[![](https://img.shields.io/badge/-Go-00ADD8?style=flat&logoColor=white&logo=go)](https://github.com/kenshuhori)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logoColor=white&logo=javascript)](https://github.com/kenshuhori)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat&logoColor=white&logo=python)](https://github.com/kenshuhori)
 [![](https://img.shields.io/badge/-Ruby-CB171E?style=flat&logoColor=white&logo=ruby)](https://github.com/kenshuhori)
+[![](https://img.shields.io/badge/-Rust-000000?style=flat&logoColor=white&logo=rust)](https://github.com/kenshuhori)
 [![](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=white&logo=typescript)](https://github.com/kenshuhori)
 [![](https://img.shields.io/badge/-YAML-CB171E?style=flat&logoColor=white&logo=yaml)](https://github.com/kenshuhori)
 
@@ -33,6 +33,7 @@
 [![](https://img.shields.io/badge/-AWS-232F3E?style=flat&logoColor=white&logo=amazon-aws)](https://github.com/kenshuhori)
 [![](https://img.shields.io/badge/-Auth0-000000?style=flat&logoColor=white&logo=auth0)](https://github.com/kenshuhori)
 [![](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logoColor=white&logo=datadog)](https://github.com/kenshuhori)
+[![](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logoColor=white&logo=firebase)](https://github.com/kenshuhori)
 [![](https://img.shields.io/badge/-GCP-4285F4?style=flat&logoColor=white&logo=google-cloud)](https://github.com/kenshuhori)
 [![](https://img.shields.io/badge/-GoogleAppsScript-4285F4?style=flat&logoColor=white&logo=GoogleAppsScript)](https://github.com/kenshuhori)
 [![](https://img.shields.io/badge/-Sentry-FB4226?style=flat&logoColor=white&logo=sentry)](https://github.com/kenshuhori)
